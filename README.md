@@ -15,12 +15,12 @@ Web files must be uploaded to GitHub following best practices taught in Authorin
 
 ## STEPS
 
-I made sure the folder was properly organized, and renamed the images so they were easier to discern while in the text editor.
-I then made sure "main.js" was initialized in the head of the html file.
-I added the content, using only what was in the "assets" and "images" folder.
-I customized the CSS, changing the background, font color, line height, letter spacing, font weight, and font family.
-I assumed the initial width of the main container was meant to stay, so I left it as is and capped the width of the images to be 400px.
-I am now adding it to GitHub, and making sure I follow all the best GitHub practices taught in Authoring last semester.
+I made sure the folder was properly organized, and renamed the images so they were easier to discern while in the text editor.<br>
+I then made sure "main.js" was initialized in the head of the html file.<br>
+I added the content, using only what was in the "assets" and "images" folder.<br>
+I customized the CSS, changing the background, font color, line height, letter spacing, font weight, and font family.<br>
+I assumed the initial width of the main container was meant to stay, so I left it as is and capped the width of the images to be 400px.<br>
+I am now adding it to GitHub, and making sure I follow all the best GitHub practices taught in Authoring last semester.<br>
 
 
  
