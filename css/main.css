@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden {
+    display: none;
+}
+
+#container {
+    margin: 20px auto;
+    width: 428px;
+    border: solid 1px #424242;
+    background: #000000;
+    border-radius: 10px;
+}
+
+#mainContent {
+        display: grid;
+        grid-template-columns: repeat(4, 85px);
+        grid-column-gap: 16px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+}
+
+article {
+    grid-column: 1/-1;
+    line-height: 50px; 
+    letter-spacing: 2px;
+    font-weight: 300;
+    color: white;
+    font-family: 'Cabin';
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 400px;
+}
